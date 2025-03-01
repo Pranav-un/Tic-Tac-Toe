@@ -1,9 +1,9 @@
-import Player from "./componets/player";
-import GameBoard from "./componets/GameBoard";
+import Player from "./components/player";
+import GameBoard from "./components/GameBoard";
 import { useState } from "react";
-import Log from "./componets/Log";
+import Log from "./components/Log";
 import { WINNING_COMBINATIONS } from "./winning-combinations";
-import GameOver from "./componets/GameOver";
+import GameOver from "./components/GameOver";
 
 const initialGameBoard = [
   [null, null, null],
