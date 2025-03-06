@@ -8,7 +8,7 @@ Classic Tic-Tac-Toe gameplay
 
 Responsive UI
 
-Player vs. Player mode
+Player vs Player mode
 
 Fast and lightweight
 
