@@ -12,7 +12,7 @@ Player vs Player mode
 
 Fast and lightweight
 
-🛠️ Technologies Used
+🛠️ Technologies Used.
 
 React - JavaScript library for building user interfaces
 
