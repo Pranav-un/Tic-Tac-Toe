@@ -12,7 +12,7 @@ const initialGameBoard = [
 ];
 
 
-// updated
+// 
 function deriveACtivePlayer(gameTurns) {
   let currentPlayer = "X";
 
